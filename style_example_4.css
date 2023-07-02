@@ -1,0 +1,26 @@
+/*
+* {
+	font-size: 20px
+}
+*/
+
+html {
+	background-color: #eee;
+}
+
+#header {color:red}
+#header_1 {color:green}
+
+h3.style {color:yellow}
+
+p.style {background-color: blue;}
+
+p i {
+	color: white
+}
+
+p.example, b {
+	font-size: 30px;
+/*	font-weight: normal; */
+}
+

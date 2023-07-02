@@ -1,0 +1,77 @@
+* {
+	text-decoration: none;
+}
+
+
+html {
+	background: url('https://w7.pngwing.com/pngs/660/531/png-transparent-green-background-texture-blue-other-thumbnail.png') repeat-y  left top pink;
+}
+
+#header {color:red}
+
+#header_1 {color:green}
+
+h3.style {color:yellow}
+
+p.style {background-color: blue;}
+
+p i {
+	color: white
+}
+
+p#example:first-letter{
+	color: red;
+}
+
+p#example:first-line{
+	color: orange;
+}
+
+.href {
+	color: #5f1a1a;
+}
+
+p:hover {background-color: red}
+p:active {background-color: green}
+
+.href:hover{
+	color: #1d5e19;
+}
+
+.href:active{
+	color: #2b4de3;
+}
+
+.href:visited{
+	color: white;
+}
+
+#textStyles:hover {
+	background-color: pink;
+}
+
+p {
+	text-indent: 1.1em;
+}
+
+#textStyles {
+	font-size: 1.1em;
+	font-weight: normal;
+	font-family: Comic Sans MS, sans-serif;
+	text-align: left;
+	text-transform: capitalize;
+	letter-spacing: 10px;
+	line-height: 200%;
+}
+
+#textStyles span {text-transform: none;}
+
+#testBlock{
+	border: 2px dashed silver;
+	height: 200px;
+	width: 500px;
+	background-color: #f7f7f7;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 50px;
+}
